@@ -8,6 +8,14 @@ I build full-stack applications focused on modern software architecture, cloud d
 
 ---
 
+## Resume
+
+📄 **[Download My Resume](https://github.com/Sphere1976/Sphere1976/raw/main/STEVEN_BUCHHOLTZ_Resume.pdf)**
+
+<img src="https://raw.githubusercontent.com/Sphere1976/Sphere1976/main/STEVEN_BUCHHOLTZ_Resume_Flyer.png" width="850" alt="Steven Buchholtz Resume">
+
+---
+
 ## Featured Project
 
 # Raiders Vault
@@ -46,16 +54,6 @@ https://raiders-vault-698156866612.us-central1.run.app/
 
 📂 Repository
 https://github.com/Sphere1976/Raiders-Vault
-
----
-
-## Resume
-
-📄 **Download Resume**
-
-[Steven Buchholtz Resume](assets/Steven-Buchholtz-Resume.pdf)
-
-<img src="assets/STEVEN_BUCHHOLTZ_Resume_Flyer.png" width="850">
 
 ---
 
