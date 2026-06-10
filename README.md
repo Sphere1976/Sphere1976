@@ -55,7 +55,7 @@ https://github.com/Sphere1976/Raiders-Vault
 
 [Steven Buchholtz Resume](assets/Steven-Buchholtz-Resume.pdf)
 
-<img src="assets/Resume 2026 Flyer Style.png" width="850">
+<img src="assets/STEVEN_BUCHHOLTZ_Resume_Flyer.png" width="850">
 
 ---
 
