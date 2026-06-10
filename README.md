@@ -112,4 +112,5 @@ Object-oriented C# desktop application featuring:
 
 GitHub: https://github.com/Sphere1976
 
-Email: sphere76@gmail.com
+Email: s_buchholtz@hotmail.com
+
